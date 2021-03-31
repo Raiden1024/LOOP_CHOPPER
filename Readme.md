@@ -14,4 +14,4 @@ Not a real and finished game, just testing pygame module.
 ## Licence
 GPL v3
 
-![capture1.png](assets/capture1.png)![capture2.png](assets/capture2.png)
+![capture1.png](/Assets/capture1.png)![capture2.png](/Assets/capture2.png)
